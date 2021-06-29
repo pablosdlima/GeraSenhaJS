@@ -1,0 +1,5 @@
+node install
+    // para instalar as dependencias do package.json
+
+npm run dev
+    // executa o webpack
